@@ -1,0 +1,22 @@
+C:\Users\Bilbo Bolseiro\OneDrive - SENAC - SP\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Bilbo Bolseiro\OneDrive - SENAC - SP\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Bilbo Bolseiro\OneDrive - SENAC - SP\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Bilbo Bolseiro\OneDrive - SENAC - SP\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Bilbo Bolseiro\OneDrive - SENAC - SP\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bilbo Bolseiro\OneDrive - SENAC - SP\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Bilbo Bolseiro\OneDrive - SENAC - SP\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Bilbo Bolseiro\OneDrive - SENAC - SP\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Bilbo Bolseiro\OneDrive - SENAC - SP\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Bilbo Bolseiro\OneDrive - SENAC - SP\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Bilbo Bolseiro\OneDrive - SENAC - SP\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\jesley.gdoliveira\OneDrive - SENAC - SP\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\jesley.gdoliveira\OneDrive - SENAC - SP\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\jesley.gdoliveira\OneDrive - SENAC - SP\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\jesley.gdoliveira\OneDrive - SENAC - SP\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\jesley.gdoliveira\OneDrive - SENAC - SP\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\jesley.gdoliveira\OneDrive - SENAC - SP\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\jesley.gdoliveira\OneDrive - SENAC - SP\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\jesley.gdoliveira\OneDrive - SENAC - SP\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\jesley.gdoliveira\OneDrive - SENAC - SP\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\jesley.gdoliveira\OneDrive - SENAC - SP\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\jesley.gdoliveira\OneDrive - SENAC - SP\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
